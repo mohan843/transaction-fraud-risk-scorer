@@ -1,0 +1,4 @@
+$ python scorer.py --amount 45 --distance-km 4 --hour 14 --velocity-1h 2
+Training accuracy: 100.0%
+Fraud probability: 0.2%
+Likely legitimate
